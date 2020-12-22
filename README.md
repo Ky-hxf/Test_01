@@ -9,3 +9,4 @@ New string to this doc;-
 55984b0af22684f7
 998 My-branch change`
 >>>>>>> my-branch
+cloud update;
